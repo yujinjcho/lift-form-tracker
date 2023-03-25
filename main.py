@@ -5,6 +5,8 @@ import time
 from src.process_mp import process_mp
 
 
+
+
 def get_args():
     args = sys.argv[1:]
     parser = argparse.ArgumentParser(description="Lift Form Tracker")
